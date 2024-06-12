@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Maheshgithub111
-- 👀 I’m interested in making cool animated website with proper functionality
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on project that contains animated website
+- 👋 Hi, I’m @Maheshgithub111.
+- 👀 I’m interested in making cool animated website with proper functionality.
+- 🌱 I’m currently learning javascript and react.
+- 💞️ I’m looking to collaborate on project that contains animated website with useful functionlity.
 
 
 <!---
